@@ -2,6 +2,7 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">Home</router-link> |
+      <h2>s撒飞洒地方</h2>
       <router-link to="/about">About</router-link>
     </div>
     <router-view/>
